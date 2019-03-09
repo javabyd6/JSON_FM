@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Filip",
+    "lastName": "Pierwszy",
+    "address": {
+      "city": "Bydgoszcz",
+      "street": "Glinki"
+    }
+  },
+  {
+    "name": "Filip",
+    "lastName": "Drugi",
+    "address": {
+      "city": "Toruń",
+      "street": "Bydgoska"
+    }
+  },
+  {
+    "name": "Filip",
+    "lastName": "Trzeci",
+    "address": {
+      "city": "Wrocław",
+      "street": "Toruńska"
+    }
+  }
+]
